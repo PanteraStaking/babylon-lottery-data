@@ -1,12 +1,13 @@
 {
   "date": "2025-05-13",
   "frequency": "daily",
-  "winner": "bbn18ulh6lcpges90m62payle998zejl09zwn9gz70",
-  "stake": 1010.171788,
-  "reward": 0.006188637951369863,
-  "eligible_count": 675,
+  "winner": "bbn1xkxvnvl9jukc0kzzjjurgqvw50wwycpsvcyq9y",
+  "stake": 1004.7429,
+  "reward": 0.012415724315753425,
+  "eligible_count": 674,
   "reward_addresses": [
-    "bbn19ewe70kgmak7mehld7ah4lj0vhda0r933u8zu2"
+    "bbn19ewe70kgmak7mehld7ah4lj0vhda0r933u8zu2",
+    "bbn18ulh6lcpges90m62payle998zejl09zwn9gz70"
   ],
   "network_apr": 15.0,
   "validator_commission": 0.03
