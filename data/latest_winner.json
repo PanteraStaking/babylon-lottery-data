@@ -1,13 +1,13 @@
 {
-  "date": "2025-05-26",
+  "date": "2025-06-02",
   "frequency": "daily",
   "winner": "bbn1n96exvjc83q50pp2ugudcaekqpvaudzufh3zcd",
   "stake": 2253.278298,
-  "reward": 0.0921077378377109,
+  "reward": 0.08511401536430946,
   "eligible_count": 1,
   "reward_addresses": [
     "bbn1pqvkkjpawy55ne5506m3jt7rt4hvzk00kyxfh3"
   ],
-  "network_apr": 23.97099772603528,
+  "network_apr": 21.897671377622835,
   "validator_commission": 0.03
 }
