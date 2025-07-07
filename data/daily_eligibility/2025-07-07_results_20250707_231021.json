@@ -1,0 +1,16 @@
+{
+  "date": "2025-07-07",
+  "frequency": "daily",
+  "eligible_delegators": {
+    "bbn1n96exvjc83q50pp2ugudcaekqpvaudzufh3zcd": 2253.278298
+  },
+  "winner": {
+    "address": "bbn1n96exvjc83q50pp2ugudcaekqpvaudzufh3zcd",
+    "stake": 2253.278298,
+    "reward": 0.27157636689533105
+  },
+  "blacklisted_stake": 31645.57333,
+  "network_apr": 20.882409657135202,
+  "validator_apr": 20.255937367421144,
+  "validator_commission": 0.03
+}
