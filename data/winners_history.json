@@ -379,5 +379,21 @@
     ],
     "network_apr": 20.679084210405243,
     "validator_commission": 0.03
+  },
+  {
+    "date": "2025-08-01",
+    "frequency": "daily",
+    "winner": "bbn18azpytu863akk2e2je00l9nz3ytkzaevsl533f",
+    "stake": 1001.408917,
+    "reward": 0.4489485140306417,
+    "eligible_count": 1,
+    "reward_addresses": [
+      "bbn1pqvkkjpawy55ne5506m3jt7rt4hvzk00kyxfh3",
+      "bbn10ftw4nkvksg6237rxmhuy2cypdkv9ts5rexs4f",
+      "bbn1n96exvjc83q50pp2ugudcaekqpvaudzufh3zcd",
+      "bbn1klrfz6h905j05usm9f6caxfmmc37svey2lskv6"
+    ],
+    "network_apr": 20.60698081154913,
+    "validator_commission": 0.03
   }
 ]
