@@ -3,10 +3,6 @@
     "blacklisted_at": "2025-09-13",
     "stake_at_time": "10000.0"
   },
-  "bbn1sd2z4jwlx8tqsuqvww4jypvtr4yk2v6ffjr6gx": {
-    "blacklisted_at": "2025-09-14",
-    "stake_at_time": "9757.306854"
-  },
   "bbn1n96exvjc83q50pp2ugudcaekqpvaudzufh3zcd": {
     "blacklisted_at": "2025-09-15",
     "stake_at_time": "2522.277067"
@@ -18,5 +14,9 @@
   "bbn18azpytu863akk2e2je00l9nz3ytkzaevsl533f": {
     "blacklisted_at": "2025-09-17",
     "stake_at_time": "1001.408917"
+  },
+  "bbn1klrfz6h905j05usm9f6caxfmmc37svey2lskv6": {
+    "blacklisted_at": "2025-09-18",
+    "stake_at_time": "1000.0"
   }
 }
