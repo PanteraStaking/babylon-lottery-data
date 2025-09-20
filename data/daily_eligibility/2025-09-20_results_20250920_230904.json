@@ -1,0 +1,18 @@
+{
+  "date": "2025-09-20",
+  "frequency": "daily",
+  "eligible_delegators": {
+    "bbn1x8958xm5el05p4thmg3vajv883z2w43485seyy": 20175.0,
+    "bbn1kmr5mjs75rf6ktnyyl63jk9nthjpu96zf97t0d": 1017.456157,
+    "bbn1hg77ms8erd88xvatvstqq2qwag48k0e7u7j092": 15006.0
+  },
+  "winner": {
+    "address": "bbn1hg77ms8erd88xvatvstqq2qwag48k0e7u7j092",
+    "stake": 15006.0,
+    "reward": 0.5833047813993378
+  },
+  "blacklisted_stake": 67328.140316,
+  "network_apr": 21.081452144823594,
+  "validator_apr": 20.449008580478885,
+  "validator_commission": 0.03
+}
