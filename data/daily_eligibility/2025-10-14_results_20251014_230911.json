@@ -1,0 +1,21 @@
+{
+  "date": "2025-10-14",
+  "frequency": "daily",
+  "eligible_delegators": {
+    "bbn18azpytu863akk2e2je00l9nz3ytkzaevsl533f": 1016.108917,
+    "bbn18lnx4qjswas57gry8tnez2tpystjqd56vh23my": 6865.033781,
+    "bbn125t2ra2jq2eklwucx9he9adxdzp4jgrt906q65": 1000.000017,
+    "bbn1n96exvjc83q50pp2ugudcaekqpvaudzufh3zcd": 2522.277067,
+    "bbn1hg77ms8erd88xvatvstqq2qwag48k0e7u7j092": 15006.0,
+    "bbn17xrv6fzz83jfqd9u0dy5e22h32kg8wpchgydm9": 1088.0
+  },
+  "winner": {
+    "address": "bbn17xrv6fzz83jfqd9u0dy5e22h32kg8wpchgydm9",
+    "stake": 1088.0,
+    "reward": 0.7274486328543595
+  },
+  "blacklisted_stake": 86565.436365,
+  "network_apr": 20.44840390047371,
+  "validator_apr": 19.8349517834595,
+  "validator_commission": 0.03
+}
