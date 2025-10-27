@@ -1,19 +1,19 @@
 {
-  "date": "2025-10-26",
+  "date": "2025-10-27",
   "frequency": "daily",
-  "winner": "bbn18lnx4qjswas57gry8tnez2tpystjqd56vh23my",
-  "stake": 6990.546641,
-  "reward": 0.7202461452549737,
-  "eligible_count": 7,
+  "winner": "bbn1klrfz6h905j05usm9f6caxfmmc37svey2lskv6",
+  "stake": 1000.0,
+  "reward": 0.6088118620368211,
+  "eligible_count": 8,
   "reward_addresses": [
     "bbn1pqvkkjpawy55ne5506m3jt7rt4hvzk00kyxfh3",
-    "bbn1x8958xm5el05p4thmg3vajv883z2w43485seyy",
     "bbn12tsa5j0q9xq2q6zu6959auz82q4unuvyg9klvp",
     "bbn17xrv6fzz83jfqd9u0dy5e22h32kg8wpchgydm9",
     "bbn1n96exvjc83q50pp2ugudcaekqpvaudzufh3zcd",
     "bbn14ugxh073jckzkhvjwtyrqc2ku27zceldfhpzjm",
-    "bbn1ceer0ljmj8j643az5mgtngx7s4s5awnxz7mkpd"
+    "bbn1ceer0ljmj8j643az5mgtngx7s4s5awnxz7mkpd",
+    "bbn18lnx4qjswas57gry8tnez2tpystjqd56vh23my"
   ],
-  "network_apr": 20.54471294053257,
+  "network_apr": 20.67000357228728,
   "validator_commission": 0.03
 }
