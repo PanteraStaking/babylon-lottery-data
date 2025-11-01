@@ -1,0 +1,15 @@
+{
+  "date": "2025-11-01",
+  "timestamp": "20251101_012357",
+  "frequency": "daily",
+  "eligible_delegators": {
+    "bbn18azpytu863akk2e2je00l9nz3ytkzaevsl533f": 1016.108917,
+    "bbn12tsa5j0q9xq2q6zu6959auz82q4unuvyg9klvp": 1108.813477,
+    "bbn10ktwqhxqxy4wfnm5l8x40cyr4nyq0kcrk4w34a": 2549.773692,
+    "bbn1n96exvjc83q50pp2ugudcaekqpvaudzufh3zcd": 2522.277067,
+    "bbn14e70863r08pmtgt6mphns0p4fz6dlmudcyg6y5": 2983.0,
+    "bbn14ugxh073jckzkhvjwtyrqc2ku27zceldfhpzjm": 1649.040332,
+    "bbn1hg77ms8erd88xvatvstqq2qwag48k0e7u7j092": 15006.0,
+    "bbn1ceer0ljmj8j643az5mgtngx7s4s5awnxz7mkpd": 4000.0
+  }
+}
