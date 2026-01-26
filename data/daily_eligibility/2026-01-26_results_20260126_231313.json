@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-26",
+  "frequency": "daily",
+  "eligible_delegators": {
+    "bbn1hg77ms8erd88xvatvstqq2qwag48k0e7u7j092": 15006.0
+  },
+  "winner": {
+    "address": "bbn1hg77ms8erd88xvatvstqq2qwag48k0e7u7j092",
+    "stake": 15006.0,
+    "reward": 0.015254262039267058
+  },
+  "blacklisted_stake": 2649.040332,
+  "network_apr": 14.012132562559202,
+  "validator_apr": 13.591768585682427,
+  "validator_commission": 0.03
+}
