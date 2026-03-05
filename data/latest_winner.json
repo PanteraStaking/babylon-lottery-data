@@ -1,14 +1,14 @@
 {
-  "date": "2026-03-03",
+  "date": "2026-03-05",
   "frequency": "daily",
-  "winner": "bbn14ugxh073jckzkhvjwtyrqc2ku27zceldfhpzjm",
-  "stake": 1649.040332,
-  "reward": 0.09083379949046495,
+  "winner": "bbn1klrfz6h905j05usm9f6caxfmmc37svey2lskv6",
+  "stake": 1000.0,
+  "reward": 0.09454245820249335,
   "eligible_count": 1,
   "reward_addresses": [
-    "bbn1klrfz6h905j05usm9f6caxfmmc37svey2lskv6",
-    "bbn1hg77ms8erd88xvatvstqq2qwag48k0e7u7j092"
+    "bbn1hg77ms8erd88xvatvstqq2qwag48k0e7u7j092",
+    "bbn14ugxh073jckzkhvjwtyrqc2ku27zceldfhpzjm"
   ],
-  "network_apr": 13.809128582623062,
+  "network_apr": 13.812834455728684,
   "validator_commission": 0.03
 }
