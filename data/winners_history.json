@@ -3091,5 +3091,18 @@
     ],
     "network_apr": 13.695646158657215,
     "validator_commission": 0.03
+  },
+  {
+    "date": "2026-03-17",
+    "frequency": "daily",
+    "winner": "bbn14ugxh073jckzkhvjwtyrqc2ku27zceldfhpzjm",
+    "stake": 1649.040332,
+    "reward": 0.08446573609301472,
+    "eligible_count": 1,
+    "reward_addresses": [
+      "bbn1hg77ms8erd88xvatvstqq2qwag48k0e7u7j092"
+    ],
+    "network_apr": 13.696740714358866,
+    "validator_commission": 0.03
   }
 ]
